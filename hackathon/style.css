@@ -1,0 +1,31 @@
+.blue{
+	background: #23b7e5;
+	font: bold;
+	color: white;
+	font-family: "Source sans pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+	text-align: center;
+	position: relative;
+	top: 0;
+	padding-bottom: 1em
+
+}
+h1{
+	margin-top: 0;
+}
+.content{
+	position: absolute;
+	top: 10%;
+	left: 50%;
+	transform: translateX(-50%);
+	height: 500px;
+	border: solid;
+	border-color: #23b7e5;
+	border-radius: 10px;
+	padding-right: 4%;
+}
+.pure-button{
+
+	position: relative;
+	transform: translateX(50%);
+	left: 30%;
+}
